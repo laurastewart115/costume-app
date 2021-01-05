@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Halloween Costumes</string>
+    <string name="my_costumes">My Costumes</string>
+    <string name="add_costume">Add Costume</string>
+    <string name="choose_image">Choose Image</string>
+    <string name="costume_title">costume title</string>
+    <string name="materials">materials</string>
+    <string name="steps">steps</string>
+    <string name="confirm">Confirm</string>
+    <string name="costume_name">Costume Name</string>
+    <string name="items">Items</string>
+    <string name="steps_upper">Steps</string>
+</resources>
